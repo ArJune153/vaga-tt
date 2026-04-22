@@ -10,10 +10,6 @@
         <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
         สมัครสมาชิก
     </a>
-    <a href="https://lin.ee/ZEY7FBy2" class="custom-button2">
-        <i class="fas fa-comments"></i>  <!-- ไอคอนติดต่อแอดมิน -->
-        ติดต่อแอดมิน
-    </a>
 </div>
 
     <div class="online-all">
@@ -564,11 +560,11 @@ body {
 .custom-button1 {
   background-color: gold; /* สีทอง */
   color: black; /* ตัวหนังสือสีดำ */
-  padding: 20px 40px; /* ขยายขนาดปุ่ม */
+  padding: 25px 60px; /* ขยายขนาดปุ่ม */
   font-size: 18px; /* ขยายขนาดตัวหนังสือ */
   font-weight: bold;
   border: none;
-  border-radius: 30px; /* ทำมุมมน */
+  border-radius: 40px; /* ทำมุมมน */
   cursor: pointer;
   transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
   display: flex;
