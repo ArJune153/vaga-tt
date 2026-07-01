@@ -6,7 +6,7 @@
       <br><b class="text2">✨การันตีผู้ใช้งานจริงนับล้านยูสเซอร์ ลูกค้าใหม่ เพิ่มอัตราการชนะ ทันที !!</b>
     </div>
     <div class="button-container">
-    <a href="https://lin.ee/ZEY7FBy2" class="custom-button1">
+    <a href="https://lin.ee/QBSg2UC" class="custom-button1">
         <i class="fas fa-user-plus"></i>  <!-- ไอคอนสมัครสมาชิก -->
         สมัครสมาชิก
     </a>
@@ -23,7 +23,7 @@
         <div class="card-container">
     <!-- Card 1 -->
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game1"/>
           <!-- เพิ่มข้อความ "มาแรง" ที่มุมขวาบน -->
@@ -35,7 +35,7 @@
   </div>
     
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game2"/>
           <div class="badge">HOT</div>
@@ -46,7 +46,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game3" />
           <div class="badge">HOT</div>
@@ -57,7 +57,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game4"/>
           <div class="badge">HOT</div>
@@ -68,7 +68,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game5"/>
           <div class="badge">HOT</div>
@@ -79,7 +79,7 @@
     </div>
 
     <div class="card">
-      <a href="https://lin.ee/ZEY7FBy2">
+      <a href="https://lin.ee/QBSg2UC">
         <div class="card-description">
           <img class="img-game6" />
           <div class="badge">HOT</div>
