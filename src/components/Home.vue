@@ -147,6 +147,7 @@ export default {
       onlineCount6: "13,254",
       onlineCountAll: "149,631",
       slides: [
+        { src: 'vaga-p1.jpg', alt: 'Image 4' },
         { src: 'photo_6176799786905226200_y.jpg', alt: 'Image 3' },
         { src: '420375319_1624702368068667_6652174554953795688_n.jpg', alt: 'Image 1' },
         { src: '421234511_7963770843638242_1140802107834476467_n.jpg', alt: 'Image 2' },      
